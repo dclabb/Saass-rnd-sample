@@ -45,5 +45,3 @@ def my_old_home_page_view(request, *args, **kwargs):
 </html>
 """.format(**my_context)
     return HttpResponse(html_)
-
-https://www.youtube.com/watch?v=WbNNESIxJnY&t=30284s
